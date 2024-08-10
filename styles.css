@@ -1,1 +1,66 @@
-
+body {
+  font-family: Arial,sans-serif;
+  margin: o;
+  padding: o;
+  background-color: #f4f4f4;
+}
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+header{
+  backgroud: #4CAF50;
+  color: #fff;
+  padding: 20px o;
+  border-bottom: #3e8e41 3px solid;
+  position: relative;
+}
+header h1 {
+  margin: o 20px;
+  display: inline-block;
+}
+.profile-img{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+.main-contet{
+  oadding: 20px;
+  backgroud: #fff;
+  margin-top: 20px;
+  border-radius; 10px;
+  box-shadow: o o 10px rgba (o,o,o,0.1);
+}
+.profile-info{
+  overflow: hindden;
+}
+.profile-info p {
+  margin: o;
+  padding: o;
+  color: #333;
+}
+.profile-info p {
+  color: #666;
+}
+.courses,salary-expectation{
+  margin-: 20px;
+}
+..courses h2, .salary-expectation h2 {
+  color #4CAF50;
+}
+.courses ul {
+  list-style: nome;
+  padding: o;
+}
+.courses li {
+  backgroud: #e8f5e9;
+  margin: 5px o;
+  oadding: 10px;
+  border-left: #4CAF50 5px solid;
+  color: #333;
+}
